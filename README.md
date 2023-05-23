@@ -1,13 +1,13 @@
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQHAbnUl-zTTbw/profile-displaybackgroundimage-shrink_350_1400/0/1677697115703?e=1690416000&v=beta&t=qipDgxaBRd7uGMyH4VIcVXhNUw3Zb7p740btjPt4kbg)
 <h1 align="center">Hi 👋, I'm Luis Gustavo</h1>
 <h3 align="center">A Brazilian student seeking knowledge in the area of ​​technology!!</h3>
+
 
 - 🔭 I’m currently working on [My studies repository](https://github.com/LuisProDev/MyStudies)
 
 - 🌱 I’m currently learning **Python and Linux**
 
 - 📫 How to reach me **emailparacontato1000@gmail.com**
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisprodev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="luisprodev" /></p>
 
