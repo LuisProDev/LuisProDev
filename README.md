@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **emailparacontato1000@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisprodev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="luisprodev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisprodev&show_icons=true&theme=dracula&locale=en" alt="luisprodev" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luisprodev&theme=dark" alt="luisprodev" /></p>
 
